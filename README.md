@@ -2,11 +2,11 @@
 
 ## Description
 
-This repository contains the code fora ** Job Posting API**, an API designed to manage job postings and applicants.
+This repository contains the code for a **Job Posting API**, designed to manage job postings and applicants.
 
 - **job_manager**: Model for managing the state of job postings and applicants.
 - **models**: Pydantic models for data validation.
-- **main**: Contains the API endpoints.
+- **main**: API endpoints.
 
 ## 🛠 Prerequisites
 
@@ -23,7 +23,7 @@ Clone the repository from GitHub to your local machine:
 
 ```bash
 git clone https://github.com/aaronbau1/job-posting-api.git
-cd govify-job-api
+cd job-posting-api
 ```
 
 ### 2. Build the Docker Image
